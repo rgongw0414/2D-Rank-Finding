@@ -1,7 +1,7 @@
-2D-Rank-Finding Algorithm
-=
-Algorithm practice
----
+## 2D-Rank-Finding Algorithm
+
+### Algorithm practice
+
 將N組座標以Quicksort整理後，輸出sorted coordinates after 2-D rank finding <br> 
 
 input: 整數N, N組座標(x, y) <br> 
